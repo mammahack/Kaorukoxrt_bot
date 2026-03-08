@@ -1,0 +1,20 @@
+{
+  "users": {
+    "221763635530": {
+      "sudoList": [
+        "221763635530@s.whatsapp.net",
+        "221786620919@s.whatsapp.net"
+      ],
+      "tagAudioPath": "database/Kaorukoxrt.mp3",
+      "antilink": true,
+      "response": true,
+      "autoreact": false,
+      "prefix": "⚡",
+      "reaction": "⚡",
+      "welcome": true,
+      "record": true,
+      "type": true,
+      "publicMode": false
+    }
+  }
+}
